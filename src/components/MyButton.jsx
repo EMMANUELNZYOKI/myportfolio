@@ -11,7 +11,7 @@ const MyButton = () => {
         font-bold shadow-md shadow-primary
         "
       >
-      <span>Demo</span>
+      <span>Github</span>
       </button>
       </Tilt>
     </div>    

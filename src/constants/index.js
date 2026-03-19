@@ -116,55 +116,97 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Bachelor of Science in Computer Science",
+      company_name: "Zetech University",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "May 2025 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
+    "Currently pursuing a Bachelor of Science in Computer Science.",
+    "Studying advanced computing concepts including software development, data structures, algorithms, database systems, web technologies, and artificial intelligence.",
+    "Gaining hands-on experience through practical projects and coursework.",
+    "Strengthening problem-solving, analytical thinking, and technical skills for a career in the technology industry.",
+  ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      title: "Freelance Web Developer",
+      company_name: "KajaxCodeLab",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "June 2023 – Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
+    "Owner of KajaxCodeLab, developing responsive and user-friendly websites for clients across various industries.",
+    "Built websites using HTML, CSS, JavaScript, React, and WordPress.",
+    "Integrated CMS, e-commerce, and analytics tools to enhance website functionality.",
+    "Managed projects end-to-end, including design, deployment, and ongoing support.",
+  ],
+    },
+    {
+      title: "Diploma in Computer Science",
+      company_name: "Diploma in Computer Science",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "Sep 2022 - Nov 2024",
+      points: [
+    "Graduated with a Diploma in Computer Science in 2024.",
+    "Gained practical skills in programming, web development, and database management.",
+    "Worked with technologies including HTML5, CSS3, JavaScript, PHP, and MySQL.",
+    "Applied UI/UX design principles to develop user-friendly applications.",
+  ],
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      company_name: "SafetyPlus Consulting Limited",
+      icon: tesla,
+      iconBg: "#E6DEDD",
+      date: "May 2024 - Aug 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+    "Designed, developed, and deployed a responsive company website using HTML5, CSS3, JavaScript, PHP, and Node.js.",
+    "Created a dynamic interface and integrated a CMS for easy content management.",
+    "Optimized website performance, accessibility, and security for end-users.",
+    "Strengthened full-stack development skills and managed end-to-end project lifecycles.",
+    "Delivered high-quality digital solutions aligned with business requirements.",
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "Team Lead",
+      company_name:"Zetech University",
+      icon: shopify,
+      iconBg: "#383E56",
+      date: "Sep 2023 - Apr 2024",
+      points:[
+    "Guided peers in programming, project management, and coding as a team lead.",
+    "Coordinated group projects, delegated tasks, and ensured smooth collaboration among team members.",
+    "Facilitated team discussions, provided technical guidance, and helped troubleshoot coding challenges.",
+    "Ensured timely project completion while strengthening leadership, communication, and problem-solving skills.",
+    "Enhanced expertise in software development and teamwork through hands-on collaborative experience.",
+      ],
+    },
+    {
+      title: "Team Lead",
+      company_name:"Zetech University",
+      icon: shopify,
+      iconBg: "#383E56",
+      date: "Sep 2023 - Apr 2024",
+      points:[
+    "Guided peers in programming, project management, and coding as a team lead.",
+    "Coordinated group projects, delegated tasks, and ensured smooth collaboration among team members.",
+    "Facilitated team discussions, provided technical guidance, and helped troubleshoot coding challenges.",
+    "Ensured timely project completion while strengthening leadership, communication, and problem-solving skills.",
+    "Enhanced expertise in software development and teamwork through hands-on collaborative experience.",
+      ],
+    },
+    {
+      title:"IT Consultant | Web Developer",
+      company_name: "St. Benedict School",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Jun 2022 - Aug 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Worked as an ICT teacher, developing lesson plans covering computer hardware, software applications, programming, and internet safety.",
+      "Used interactive teaching methods to simplify complex technical concepts and improve student engagement.",
+      "Enhanced communication, problem-solving, and analytical skills through teaching and mentoring students.",
+      "Applied technical knowledge to provide IT support and guidance.",
       ],
     },
   ];
@@ -198,70 +240,70 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
-      description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "mongodb",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
+       name: "Car Management System",
+  description:
+    "A Python-based project designed to manage car inventories using CRUD operations. Users can add, view, edit, and delete car details such as make, model, year, mileage, and price. The system provides a simple and efficient way to handle car data, ideal for learning data management and user interaction in real-world applications.",
+  tags: [
+    {
+      name: "python",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "sqlite",
+      color: "green-text-gradient",
+    },
+    {
+      name: "tkinter",
+      color: "pink-text-gradient",
+    },
+  ],
       image: carrent,
-      source_code_link: "https://github.com/",
-      demo_link: "http://www.demo.com" ,
+      source_code_link: "https://github.com/EMMANUELNZYOKI/car-management-system",
+      demo_link: "https://github.com/EMMANUELNZYOKI/car-management-system"
     },
     {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
+      name: "Django Mpesa Intergration Daraja",
+  description:
+    "A Django-based library that integrates Safaricom’s Mpesa Daraja API to enable seamless mobile payment functionality in Python web applications. It simplifies STK Push requests, transaction confirmation, and status checks through well-structured API endpoints, with easy setup including configurable keys, URL routing, and model migrations.",
+  tags: [
+    {
+      name: "django",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "python",
+      color: "green-text-gradient",
+    },
+    {
+      name: "rest-api",
+      color: "pink-text-gradient",
+    },
+  ],
       image: jobit,
-      source_code_link: "https://github.com/",
-      demo_link: "http://www.demo.com" ,
+      source_code_link: "https://github.com/EMMANUELNZYOKI/django-mpesa-daraja",
+      demo_link: "https://github.com/EMMANUELNZYOKI/django-mpesa-daraja"
     },
     {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
+      name: "Travel Management System",
+  description:
+    "A responsive web platform built with PHP, MySQL, and Bootstrap that enables travel planning, bookings, and management. It includes user registration, role-based access, travel package listings, online booking with secure payments, and an admin dashboard for managing customers, tracking bookings, and viewing analytics.",
+  tags: [
+    {
+      name: "php",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "mysql",
+      color: "green-text-gradient",
+    },
+    {
+      name: "bootstrap",
+      color: "pink-text-gradient",
+    },
+  ],
       image: tripguide,
-      source_code_link: "https://github.com/",
-      demo_link: "http://www.demo.com" ,
+      source_code_link: "https://github.com/EMMANUELNZYOKI/travel-management-system",
+      demo_link: "https://github.com/EMMANUELNZYOKI/travel-management-system" ,
     },
   ];
   
