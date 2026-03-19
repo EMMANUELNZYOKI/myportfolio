@@ -169,11 +169,11 @@ import {
       ],
     },
     {
-      title: "Team Lead",
-      company_name:"Zetech University",
+      title: "Web Development Certification",
+      company_name:"eMobilis Technology Institute",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Sep 2023 - Apr 2024",
+      date: "Oct 2024 - Aug 2025",
       points:[
     "Guided peers in programming, project management, and coding as a team lead.",
     "Coordinated group projects, delegated tasks, and ensured smooth collaboration among team members.",
@@ -194,6 +194,19 @@ import {
     "Facilitated team discussions, provided technical guidance, and helped troubleshoot coding challenges.",
     "Ensured timely project completion while strengthening leadership, communication, and problem-solving skills.",
     "Enhanced expertise in software development and teamwork through hands-on collaborative experience.",
+      ],
+    },
+    {
+      title:"High School Education",
+      company_name: "High School Education",
+      icon: meta,
+      iconBg: "#E6DEDD",
+      date: "Jan 2018 - Apr 2022",
+      points: [
+        "Built a strong academic foundation in mathematics, sciences, languages, and computer studies.",
+        "Developed problem-solving and analytical thinking skills.",
+        "Enhanced communication, teamwork, and time management abilities.",
+        "Participated in academic and extracurricular activities to support overall development.",
       ],
     },
     {
